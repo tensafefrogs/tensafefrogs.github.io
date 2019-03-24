@@ -1,7 +1,7 @@
 body {
   background-color: #3D5166;
-  background-image: url(http://geoffstearns.imgix.net/blue_bg_stripe.png);
-  background: -webkit-gradient(radial, 74% 35%, 0, 50% 50%, 800, from(rgba(0,0,0,0)), to(rgba(0,0,0,0.7))),url(http://geoffstearns.imgix.net/blue_bg_stripe.png);
+  background-image: url(https://geoffstearns.imgix.net/blue_bg_stripe.png);
+  background: -webkit-gradient(radial, 74% 35%, 0, 50% 50%, 800, from(rgba(0,0,0,0)), to(rgba(0,0,0,0.7))),url(https://geoffstearns.imgix.net/blue_bg_stripe.png);
 }
 
 #home-title {
