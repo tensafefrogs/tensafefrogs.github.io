@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="Three.js"></script>
+    <script src="threex.domevent.js"></script>
+    <script>
+
+        var INITIAL_Z = -45 * (Math.PI / 2);
+
+        // load the data
+        var jsonData;
+        function getJSON() {
+          $.getJSON('output_bing.json', init);
+        }
+
+        // 3d stuffs
+        var camera, scene, renderer;
+        // stick everything in here to make moving/sizing easier
+        var base = new THREE.Object3D();
+
+        function init(data) {
+
+            jsonData = data;
+            scene = new THREE.Scene();
+
+            camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 10000 );
+            camera.position.z = 800;
+            scene.add( camera );
+
+            renderSomeCubes(scene)
+
+            renderer = new THREE.CanvasRenderer();
+            renderer.setSize( window.innerWidth, window.innerHeight );
+
+            document.getElementById('chart').appendChild( renderer.domElement );
+
+            scene.add(base);
+
+            // Some ghetto shit from THREEx
+            THREE.Object3D._threexDomEvent.camera(camera);
+
+            animate();
+        }
+
+        var defaultMaterial = new THREE.MeshBasicMaterial({
+          color: 0x990902,
+          wireframe: false,
+          opacity: .1
+        });
+
+        function renderSomeCubes() {
+          var CUBE_SIZE = 50;
+          var CUBE_PADDING = 10;
+          var totalGridWidth = (CUBE_SIZE + CUBE_PADDING) * (Math.sqrt(jsonData.length) + 1);
+
+          for (var i = 0; i < jsonData.length; i++) {
+            var currentData = jsonData[i];
+            var geometry = new THREE.CubeGeometry( CUBE_SIZE, CUBE_SIZE, currentData.percent * 3);
+            var material = defaultMaterial;
+            //material.opacity = currentData.percent / 100;
+            console.log(material.opacity);
+            var mesh = new THREE.Mesh(geometry, material);
+            mesh.position.x = ((CUBE_SIZE + CUBE_PADDING) * currentData.f) - (totalGridWidth / 2);
+            mesh.position.y = ((CUBE_SIZE + CUBE_PADDING) * currentData.u) - (totalGridWidth / 2);
+            mesh.position.z = (currentData.percent * 3) / 2;
+            mesh.data = currentData;
+
+            mesh.on('mouseover', function(event) {
+              console.log(event.target.data);
+              var data = event.target.data;
+              $('#tooltip').show().text(data.count +", "+ data.query).css({ top: mouseY, left: mouseX });
+            }).on('mouseout', function(event) {
+              $('#tooltip').hide();
+            });
+
+            base.add(mesh);
+            // adjust initial angle + position
+            base.position.y = 50;
+            base.rotation.x = 0;
+            base.rotation.z = -45 * (Math.PI / 2) ;
+          }
+        }
+
+        function animate() {
+            // note: three.js includes requestAnimationFrame shim
+            requestAnimationFrame( animate );
+            render();
+        }
+
+        var targetX = 0;
+        var rotating = false;
+        function render() {
+            if (Math.abs(targetX - base.rotation.x) > .001) {
+              base.rotation.x += (targetX - base.rotation.x) / 40;
+            }
+            if (rotating) {
+              base.rotation.z += 0.006;
+            } else {
+              base.rotation.z += (INITIAL_Z - (base.rotation.z)) / 20;
+            }
+            renderer.render( scene, camera );
+        }
+
+        getJSON();
+
+        function debug(txt) {
+          $("#debug").text(txt);
+        }
+
+        $(document).keypress(function(e) {
+          if (e.which == 32) { // spacebar
+            targetX = (targetX == -1) ? 0 : -1.0;
+            rotating = !rotating;
+          }
+        });
+
+        var mouseX = 0;
+        var mouseY = 0;
+        $(document).mousemove(function(e) {
+          mouseX = e.pageX;
+          mouseY = e.pageY;
+        });
+
+    </script>
+    <style type="text/css">
+      #debug {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        border: solid 5px black;
+        display: none;
+      }
+
+      html, body {
+        overflow: hidden;
+      }
+
+      #tooltip {
+        position: absolute;
+        background: #ccc;
+        border: solid 3px green;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div id="chart"></div>
+    <div id="tooltip">This is a tooltip!</div>
+    <div id="debug"></div>
+  </body>
+</html>
