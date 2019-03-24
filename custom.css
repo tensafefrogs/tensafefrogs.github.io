@@ -1,0 +1,23 @@
+body {
+  background-color: #3D5166;
+  background-image: url(http://geoffstearns.imgix.net/blue_bg_stripe.png);
+  background: -webkit-gradient(radial, 74% 35%, 0, 50% 50%, 800, from(rgba(0,0,0,0)), to(rgba(0,0,0,0.7))),url(http://geoffstearns.imgix.net/blue_bg_stripe.png);
+}
+
+#home-title {
+  color: #ccc;
+  font-family: 'Andada', 'Trebuchet MS', serif;
+  text-shadow: rgba(0,0,0,0.5) 2px 2px 1px;
+  font-size: 64px;
+  line-height: 1em;
+}
+
+#home-subtitle {
+  color: #8295A8;
+  font-family: 'Dynalight', cursive;
+  text-shadow: rgba(0,0,0,0.5) 2px 2px 1px;
+  font-size: 42px;
+  line-height: 34px;
+  max-width: 280px;
+  margin: 0.5em auto;
+}
