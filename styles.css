@@ -1,0 +1,215 @@
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.6;
+  letter-spacing: .06em;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #c6cddb;
+  font-family: "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+  /* Diagonal stripe background (pure CSS) */
+  background-color: #3D5166;
+  background-image:
+    radial-gradient(ellipse at 74% 35%, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 100%),
+    repeating-linear-gradient(
+      45deg,
+      #3D5166,
+      #3D5166 10px,
+      #435872 10px,
+      #435872 20px
+    );
+}
+
+a {
+  color: #c6cddb;
+  text-decoration: none;
+  border: none;
+  transition-property: color;
+  transition-duration: .4s;
+  transition-timing-function: ease-out;
+}
+
+a:hover {
+  color: #fff;
+}
+
+.feather {
+  display: inline-block;
+  vertical-align: -.125em;
+  width: 1em;
+  height: 1em;
+}
+
+/* Spotlight/Home styles */
+#spotlight {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 93%;
+  margin: auto;
+  font-size: 1.5rem;
+  padding-bottom: 2em;
+}
+
+#home-center {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#home-title {
+  margin: 0;
+  text-align: center;
+  /* Custom styles from custom.css */
+  color: #ccc;
+  font-family: 'Andada', 'Trebuchet MS', serif;
+  text-shadow: rgba(0,0,0,0.5) 2px 2px 1px;
+  font-size: 64px;
+  line-height: 1em;
+}
+
+#home-subtitle {
+  margin-top: 0;
+  margin-bottom: 1.5em;
+  text-align: center;
+  line-height: normal;
+  font-size: .7em;
+  font-style: italic;
+  opacity: .9;
+  /* Custom styles from custom.css */
+  color: #8295A8;
+  font-family: 'Dynalight', cursive;
+  text-shadow: rgba(0,0,0,0.5) 2px 2px 1px;
+  font-size: 42px;
+  line-height: 34px;
+  max-width: 280px;
+  margin: 0.5em auto;
+}
+
+#home-social {
+  font-size: 1.4em;
+  text-align: center;
+  opacity: .8;
+}
+
+#home-social a {
+  margin: 0 .2em;
+}
+
+#home-nav {
+  opacity: .8;
+}
+
+#home-nav a {
+  display: block;
+  text-align: center;
+  margin-top: .5em;
+}
+
+#home-footer {
+  text-align: center;
+  font-size: .6em;
+  line-height: normal;
+  opacity: .6;
+  /* Custom styles from custom.css */
+  color: #6e737b;
+  margin: 2em 0 3em 0;
+  padding: 1em 0;
+}
+
+#home-footer p {
+  margin-top: 0;
+}
+
+/* Animations */
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+}
+
+/* Mobile adjustments - prevent scrolling on small screens */
+@media (max-height: 800px) {
+  #spotlight {
+    font-size: 1.3rem;
+  }
+
+  #home-title {
+    font-size: 52px;
+  }
+
+  #home-subtitle {
+    font-size: 36px;
+    line-height: 30px;
+  }
+}
+
+@media (max-height: 700px) {
+  #spotlight {
+    font-size: 1.2rem;
+  }
+
+  #home-title {
+    font-size: 44px;
+  }
+
+  #home-subtitle {
+    font-size: 30px;
+    line-height: 26px;
+    margin-bottom: 1.2em;
+  }
+
+  #home-social {
+    font-size: 1.2em;
+  }
+
+  #home-footer {
+    margin: 1.5em 0 2em 0;
+  }
+}
+
+@media (max-height: 600px) {
+  #spotlight {
+    font-size: 1rem;
+  }
+
+  #home-title {
+    font-size: 38px;
+  }
+
+  #home-subtitle {
+    font-size: 26px;
+    line-height: 22px;
+    margin-bottom: 1em;
+  }
+
+  #home-social {
+    font-size: 1.1em;
+  }
+
+  #home-footer {
+    margin: 1em 0 1.5em 0;
+  }
+}
