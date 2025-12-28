@@ -15,7 +15,7 @@ body {
   color: #c6cddb;
   font-family: "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
   /* Diagonal stripe background (pure CSS) */
-  background-color: #3D5166;
+  background-color: #435872;
   background-image:
     radial-gradient(ellipse at 74% 35%, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 100%),
     repeating-linear-gradient(
@@ -57,7 +57,7 @@ a:hover {
   max-width: 93%;
   margin: auto;
   font-size: 1.5rem;
-  padding-bottom: 2em;
+  padding-bottom: 0.5em;
 }
 
 #home-center {
@@ -123,7 +123,7 @@ a:hover {
   opacity: .6;
   /* Custom styles from custom.css */
   color: #6e737b;
-  margin: 2em 0 3em 0;
+  margin: 2em 0 1.5em 0;
   padding: 1em 0;
 }
 
