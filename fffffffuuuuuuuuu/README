@@ -1,0 +1,9 @@
+A quick and dirty fun project to see what the most common combination of "ffffffuuuuuu" is on the internet.
+
+AKA: http://dev.geoffstearns.com/fffffffuuuuuuuuu/fffffffuuuuu.jpg
+
+The python script uses the Google json search API (note that the result counts it returns are a bit different from the web UI), then use the html page to display the data.
+
+I'm still working on making it look a little better.
+
+Inspired much by xkcd: http://xkcd.com/467/

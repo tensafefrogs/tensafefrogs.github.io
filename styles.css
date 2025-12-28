@@ -15,15 +15,15 @@ body {
   color: #c6cddb;
   font-family: "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
   /* Diagonal stripe background (pure CSS) */
-  background-color: #435872;
+  background-color: #2a3a4d;
   background-image:
     radial-gradient(ellipse at 74% 35%, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 100%),
     repeating-linear-gradient(
       45deg,
-      #3D5166,
-      #3D5166 10px,
-      #435872 10px,
-      #435872 20px
+      #253449,
+      #253449 10px,
+      #2a3a4d 10px,
+      #2a3a4d 20px
     );
 }
 

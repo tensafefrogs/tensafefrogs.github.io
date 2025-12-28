@@ -1,0 +1,3502 @@
+[
+    {
+        "count": 333000000, 
+        "f": 1, 
+        "percent": 77, 
+        "query": "fu", 
+        "u": 1
+    }, 
+    {
+        "count": 7240000, 
+        "f": 1, 
+        "percent": 1, 
+        "query": "fuu", 
+        "u": 2
+    }, 
+    {
+        "count": 970000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 692000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 365000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 238000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 172000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 136000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 284000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 91000, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 82900, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 86700, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 59400, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 50100, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 39400, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 33900, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 27200, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 33900, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 29700, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 24400, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 58900, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 23600, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 24800, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 16800, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 15300, 
+        "f": 1, 
+        "percent": 0, 
+        "query": "fuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 1900000, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffu", 
+        "u": 1
+    }, 
+    {
+        "count": 76800, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 48900, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 692000, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 1910000, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 238000, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 2170000, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 284000, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 10600, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 6920, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 4520, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 3990, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 8450, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 2970, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 2820, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 1880, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 1890, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 1790, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 29700, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 1020, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 23600, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1050, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 24800, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 826, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 35700, 
+        "f": 2, 
+        "percent": 0, 
+        "query": "ffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 404000, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffu", 
+        "u": 1
+    }, 
+    {
+        "count": 61200, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 404000, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 68600, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 48600, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 26200, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 56800, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 77000, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 20900, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 110000, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 15100, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 8130, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 6790, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 50100, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 5000, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4960, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 5320, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 2380, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 4500, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2410, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2430, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 2640, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1690, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1520, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 12500, 
+        "f": 3, 
+        "percent": 0, 
+        "query": "fffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 23500, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 34700, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 27500, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 118000, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 48900, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 32700, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 18900, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 17700, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 26400, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 72900, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 7140, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 21500, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 8580, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 10100, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 4420, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 6960, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 3770, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3280, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 4610, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2610, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 1950, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 2130, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1330, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 68700, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 2950, 
+        "f": 4, 
+        "percent": 0, 
+        "query": "ffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 48500, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 5650, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 7590, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 23300, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 58500, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 105000, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 16100, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 34600, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 34600, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 27500, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 14200, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 20400, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 10600, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 8620, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 704000, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4540, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 6160, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 8870, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 5350, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2690, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 4040, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1680, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1660, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1490, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1320, 
+        "f": 5, 
+        "percent": 0, 
+        "query": "fffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 137000, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 5970, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 16600, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 21500, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 30300, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 18700, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 45100, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 12000, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 36900, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 26600, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 16300, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 704000, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 7780, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 7340, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 1070000, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 704000, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4020, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 4250, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 4050, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2550, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2570, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 6480, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 2050, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 2850, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1630, 
+        "f": 6, 
+        "percent": 0, 
+        "query": "ffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 20600, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 2860, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 4220, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 3310, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 8800, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 39200, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 63200, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 63200, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 43000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 704000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 704000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 704000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 1070000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 8980, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 7010, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 704000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 3960, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3120, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2850, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 1040, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 2230, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 2000, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1580, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1160, 
+        "f": 7, 
+        "percent": 0, 
+        "query": "fffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 13900, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 4770, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 6230, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 5430, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 14300, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 19700, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 63200, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 33300, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 7200, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 15300, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 4480, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 1070000, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 3140, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 2270, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 1900, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 5120, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4320, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 1040, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 3440, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 3010, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2040, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 2990, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 2370, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1760, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 3160, 
+        "f": 8, 
+        "percent": 0, 
+        "query": "ffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 9960, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 1230, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 1450, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 3460, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 11400, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 2230, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 15200, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 21500, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 18200, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 432000000, 
+        "f": 9, 
+        "percent": 100, 
+        "query": "fffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 346000000, 
+        "f": 9, 
+        "percent": 80, 
+        "query": "fffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 282000000, 
+        "f": 9, 
+        "percent": 65, 
+        "query": "fffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 704000, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 2280, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 5790, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 27300, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4100, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3510, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2980, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2710, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2930, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1960, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1850, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1570, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1580, 
+        "f": 9, 
+        "percent": 0, 
+        "query": "fffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 8350, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 1650, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 1540, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 63200, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 6890, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 12600, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 13900, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 11800, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 4030, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 14700, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 11300, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 9560, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 11400, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 9450, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 7660, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 6760, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4070, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3780, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 4140, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 3050, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2640, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 2580, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 3030, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1910, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1270, 
+        "f": 10, 
+        "percent": 0, 
+        "query": "ffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 5760, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 1040, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 1010000, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 1690, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 4070, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 3870, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 8250, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 7450, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 9730, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 10200, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 16100, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 3100, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 9030, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 14400, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 6960, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4330, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 15200, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3330, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 3300, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 3210, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 3720, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 2630, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 5690, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1690, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1760, 
+        "f": 11, 
+        "percent": 0, 
+        "query": "fffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 4330, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 814, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 420, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 1520, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 3690, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 1680, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 27700, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 6650, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 79600, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 8930, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 18200, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 3360, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 4370, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 2480, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 2190, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 1700, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4080, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 9000, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 3310, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2560, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2450, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 8050, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1770, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 2130, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1300, 
+        "f": 12, 
+        "percent": 0, 
+        "query": "ffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 3790, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 600, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 737, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 836, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 2730, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 1090, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 3650, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 3520, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 3210, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 4850, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 3360, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 21900, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 6030, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 7560, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 5670, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4750, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 3300, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3500, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2500, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2530, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 3200, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1810, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1540, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 4930, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 3050, 
+        "f": 13, 
+        "percent": 0, 
+        "query": "fffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 3790, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 532000, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 532000, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 805, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 2960, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 875, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 3190, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 1580, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 5060, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 5610, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 4390, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 5150, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 6480, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 4220, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 5700, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4060, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4280, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 2760, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2530, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 1820, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 1990, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 15900, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1990, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1160, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1010, 
+        "f": 14, 
+        "percent": 0, 
+        "query": "ffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 4210, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 375, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 862, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 944, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 2720, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 1690, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 2990, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 4390, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 1080, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 2680, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 2920, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 3030, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 7180, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 3540, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 5600, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 4120, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 4560, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 2420, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2560, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 1800, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 1410, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1970, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1530, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1670, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1780, 
+        "f": 15, 
+        "percent": 0, 
+        "query": "fffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 3250, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 532000, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 443, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 782, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 517, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 3750, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 18200, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 1020, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 996, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 1410, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 2320, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 1630, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 2780, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 1200, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 3730, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 3350, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 3770, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3940, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2410, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 1390, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 1830, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1900, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 2290, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1500, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1650, 
+        "f": 16, 
+        "percent": 0, 
+        "query": "ffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 2110, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 307, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 379, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 131, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 1310, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 534, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 1260, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 514, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 487, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 1310, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 1810, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 1630, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 2480, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 2170, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 1750, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 3360, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 2240, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 2480, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 2050, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2520, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2550, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1730, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 2010, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 2330, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1650, 
+        "f": 17, 
+        "percent": 0, 
+        "query": "fffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 2040, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 409000, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 134, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 101, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 502, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 471, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 1450, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 226, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 1630, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 793, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 890, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 1780, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 925, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 1700, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 2340, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 1840, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 1510, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 1340, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 1520, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2320, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 2340, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1550, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 994, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1680, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 1060, 
+        "f": 18, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 2140, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 309000, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 769000, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 294, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 1340, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 369, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 1230, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 7180, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 7200, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 520, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 853, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 7200, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 1340, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 1240, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 1660, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 2070, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 1640, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3390, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 1780, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 1570, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 1610, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 4480, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 1350, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 61700, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 585, 
+        "f": 19, 
+        "percent": 0, 
+        "query": "fffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }, 
+    {
+        "count": 1760, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffu", 
+        "u": 1
+    }, 
+    {
+        "count": 309000, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuu", 
+        "u": 2
+    }, 
+    {
+        "count": 769000, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuu", 
+        "u": 3
+    }, 
+    {
+        "count": 220, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuu", 
+        "u": 4
+    }, 
+    {
+        "count": 1070, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuu", 
+        "u": 5
+    }, 
+    {
+        "count": 439, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuu", 
+        "u": 6
+    }, 
+    {
+        "count": 1330, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuu", 
+        "u": 7
+    }, 
+    {
+        "count": 281, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuu", 
+        "u": 8
+    }, 
+    {
+        "count": 357, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuu", 
+        "u": 9
+    }, 
+    {
+        "count": 868, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuu", 
+        "u": 10
+    }, 
+    {
+        "count": 461, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuu", 
+        "u": 11
+    }, 
+    {
+        "count": 1660, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuu", 
+        "u": 12
+    }, 
+    {
+        "count": 785, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuu", 
+        "u": 13
+    }, 
+    {
+        "count": 1500, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuu", 
+        "u": 14
+    }, 
+    {
+        "count": 7340, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuu", 
+        "u": 15
+    }, 
+    {
+        "count": 844, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuu", 
+        "u": 16
+    }, 
+    {
+        "count": 1720, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuu", 
+        "u": 17
+    }, 
+    {
+        "count": 3110, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuu", 
+        "u": 18
+    }, 
+    {
+        "count": 1560, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuu", 
+        "u": 19
+    }, 
+    {
+        "count": 2330, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuu", 
+        "u": 20
+    }, 
+    {
+        "count": 1560, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 21
+    }, 
+    {
+        "count": 1050, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 22
+    }, 
+    {
+        "count": 983, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 23
+    }, 
+    {
+        "count": 1100, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 24
+    }, 
+    {
+        "count": 2230, 
+        "f": 20, 
+        "percent": 0, 
+        "query": "ffffffffffffffffffffuuuuuuuuuuuuuuuuuuuuuuuuu", 
+        "u": 25
+    }
+]
