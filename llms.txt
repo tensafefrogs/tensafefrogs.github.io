@@ -1,0 +1,18 @@
+# Geoff Stearns
+
+> Internet enthusiast & maker of things.
+
+## About
+
+Geoff Stearns makes generative art and builds things on the internet.
+
+## Links
+
+- Artwork: https://deconcept.com/
+- Code: https://github.com/tensafefrogs
+- Bluesky: https://bsky.app/profile/deconcept.com
+- Instagram: https://instagram.com/tensafefrogs
+
+## This Site
+
+geoffstearns.com is a minimal personal landing page with a custom dot grid pattern background made with pure CSS.
