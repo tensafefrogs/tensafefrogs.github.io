@@ -14,17 +14,26 @@ html {
 body {
   color: #c6cddb;
   font-family: "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
-  /* Diagonal stripe background (pure CSS) */
+  /* Dot grid + noise background (pure CSS) */
   background-color: #1a2634;
   background-image:
-    radial-gradient(ellipse at 74% 35%, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 100%),
-    repeating-linear-gradient(
-      45deg,
-      #253449,
-      #253449 10px,
-      #2a3a4d 10px,
-      #2a3a4d 20px
-    );
+    /* Subtle noise texture */
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.06'/%3E%3C/svg%3E"),
+    /* Vignette spotlight effect */
+    radial-gradient(circle at center, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%),
+    /* Dot grid pattern */
+    radial-gradient(#2a3a4d 2px, transparent 2px),
+    radial-gradient(#253449 2px, transparent 2px);
+  background-size:
+    auto,
+    100% 100%,
+    40px 40px,
+    40px 40px;
+  background-position:
+    0 0,
+    0 0,
+    0 0,
+    20px 20px;
 }
 
 a {
