@@ -4,7 +4,7 @@
 
 ## About
 
-Geoff Stearns makes generative art and builds things on the internet.
+Geoff Stearns makes generative art and builds things on the internet. Creator of SWFObject (used by 2.6M+ websites), ex-YouTube/Google product manager & engineer, and holder of multiple U.S. patents for video player innovations.
 
 ## Links
 
