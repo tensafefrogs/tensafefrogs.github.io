@@ -16,3 +16,12 @@ Geoff Stearns makes generative art and builds things on the internet. Creator of
 ## This Site
 
 geoffstearns.com is a minimal personal landing page with a custom dot grid pattern background made with pure CSS.
+
+## Development Workflow
+
+**IMPORTANT FOR CLAUDE**: To view development changes:
+1. Make changes on `claude/dev-<sessionId>` branch
+2. Deploy to staging: `./deploy-staging.sh`
+3. View at: https://tensafefrogs.github.io/geoffstearns.com_hugo/
+
+The staging branch is used to preview dev changes before merging to main. Always deploy to staging after making changes so the user can view them on mobile.
