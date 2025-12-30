@@ -62,18 +62,16 @@ a:hover {
   min-height: 100vh;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   max-width: 93%;
   margin: auto;
   font-size: 1.5rem;
-  padding-bottom: 0.5em;
+  padding: 3em 0 2em;
 }
 
 #home-center {
   display: flex;
-  flex-grow: 1;
   flex-direction: column;
-  justify-content: center;
+  width: 100%;
 }
 
 #home-title {
@@ -88,8 +86,6 @@ a:hover {
 }
 
 #home-subtitle {
-  margin-top: 0;
-  margin-bottom: 1.5em;
   text-align: center;
   line-height: normal;
   font-size: .7em;
@@ -102,7 +98,7 @@ a:hover {
   font-size: 42px;
   line-height: 44px;
   max-width: 280px;
-  margin: 0.5em auto;
+  margin: 0.5em auto 2em;
   white-space: normal;
 }
 
@@ -112,10 +108,22 @@ a:hover {
   line-height: 0 !important;
 }
 
+#profile-photo {
+  display: block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 0 auto 2em;
+  object-fit: cover;
+  opacity: 0.9;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
 #home-social {
   font-size: 1.4em;
   text-align: center;
   opacity: .8;
+  margin-bottom: 1em;
 }
 
 #home-social a {
@@ -132,61 +140,15 @@ a:hover {
   margin-top: .5em;
 }
 
-.work-section {
-  margin: 2em auto 1em;
-  max-width: 500px;
-  font-size: 0.6em;
-  opacity: 0.85;
-}
-
-.work-section h3 {
-  text-align: center;
-  margin: 0 0 1em 0;
-  font-size: 1.3em;
-  color: #8295A8;
-  text-shadow: rgba(0,0,0,0.5) 1px 1px 1px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5em;
-}
-
-.work-section ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.work-section li {
-  margin: 0.8em 0;
-  line-height: 1.6;
-}
-
-.work-section a {
-  color: #c6cddb;
-  text-decoration: underline;
-  text-decoration-color: rgba(198, 205, 219, 0.3);
-  transition: all 0.3s ease;
-}
-
-.work-section a:hover {
-  color: #fff;
-  text-decoration-color: rgba(255, 255, 255, 0.5);
-}
-
-.work-note {
-  color: #8295A8;
-  font-style: italic;
-  font-size: 0.95em;
-}
-
+.work-section,
 .art-section {
-  margin: 2em auto 1em;
+  margin: 1.5em auto 1em;
   max-width: 500px;
   font-size: 0.6em;
   opacity: 0.85;
 }
 
+.work-section h3,
 .art-section h3 {
   text-align: center;
   margin: 0 0 1em 0;
@@ -199,17 +161,20 @@ a:hover {
   gap: 0.5em;
 }
 
+.work-section ul,
 .art-section ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
+.work-section li,
 .art-section li {
   margin: 0.8em 0;
   line-height: 1.6;
 }
 
+.work-section a,
 .art-section a {
   color: #c6cddb;
   text-decoration: underline;
@@ -217,11 +182,13 @@ a:hover {
   transition: all 0.3s ease;
 }
 
+.work-section a:hover,
 .art-section a:hover {
   color: #fff;
   text-decoration-color: rgba(255, 255, 255, 0.5);
 }
 
+.work-note,
 .art-note {
   color: #8295A8;
   font-style: italic;
