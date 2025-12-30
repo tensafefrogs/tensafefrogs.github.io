@@ -5,7 +5,3 @@
 
 User-agent: *
 Allow: /
-
-# If you're looking for more content, check out:
-# - https://deconcept.com/ (Geoff's artwork)
-# - https://github.com/tensafefrogs (Geoff's code)
