@@ -4,11 +4,13 @@
 
 ## About
 
-Geoff Stearns makes generative art and builds things on the internet. Creator of SWFObject (used by 2.6M+ websites), ex-YouTube/Google product manager & engineer, and holder of multiple U.S. patents for video player innovations.
+Geoff Stearns makes generative art and builds things on the internet. Creator of SWFObject (used by 2.6M+ websites), YouTube/Google Product Manager with multiple U.S. patents for video player innovations. Creates long-form generative art at Hash Three Points and various pieces on fxhash. Also maintains a fork of 2048 featuring popular image memes.
 
 ## Links
 
 - Artwork: https://deconcept.com/
+- Hash Three Points: https://h3p.deconcept.com/
+- fxhash: https://www.fxhash.xyz/u/geoff.tez
 - Code: https://github.com/tensafefrogs
 - Bluesky: https://bsky.app/profile/deconcept.com
 - Instagram: https://instagram.com/tensafefrogs
