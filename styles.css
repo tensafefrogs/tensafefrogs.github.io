@@ -141,6 +141,7 @@ a:hover {
   margin-top: .5em;
 }
 
+.posts-section,
 .work-section,
 .art-section,
 .misc-section {
@@ -150,6 +151,7 @@ a:hover {
   opacity: 0.85;
 }
 
+.posts-section h3,
 .work-section h3,
 .art-section h3,
 .misc-section h3 {
@@ -165,6 +167,7 @@ a:hover {
   gap: 0.5em;
 }
 
+.posts-section ul,
 .work-section ul,
 .art-section ul,
 .misc-section ul {
@@ -173,6 +176,7 @@ a:hover {
   margin: 0;
 }
 
+.posts-section li,
 .work-section li,
 .art-section li,
 .misc-section li {
@@ -180,6 +184,7 @@ a:hover {
   line-height: 1.6;
 }
 
+.posts-section a,
 .work-section a,
 .art-section a,
 .misc-section a {
@@ -189,6 +194,7 @@ a:hover {
   transition: all 0.3s ease;
 }
 
+.posts-section a:hover,
 .work-section a:hover,
 .art-section a:hover,
 .misc-section a:hover {
@@ -196,6 +202,7 @@ a:hover {
   text-decoration-color: rgba(255, 255, 255, 0.5);
 }
 
+.posts-note,
 .work-note,
 .art-note,
 .misc-note {
