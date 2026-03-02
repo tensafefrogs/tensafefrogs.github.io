@@ -141,20 +141,14 @@ a:hover {
   margin-top: .5em;
 }
 
-.posts-section,
-.work-section,
-.art-section,
-.misc-section {
+.content-section {
   margin: 1.5em auto 1em;
   max-width: 500px;
   font-size: 0.6em;
   opacity: 0.85;
 }
 
-.posts-section h3,
-.work-section h3,
-.art-section h3,
-.misc-section h3 {
+.content-section h3 {
   text-align: center;
   margin: 0 0 1em 0;
   font-size: 1.3em;
@@ -167,48 +161,42 @@ a:hover {
   gap: 0.5em;
 }
 
-.posts-section ul,
-.work-section ul,
-.art-section ul,
-.misc-section ul {
+.content-section ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-.posts-section li,
-.work-section li,
-.art-section li,
-.misc-section li {
+.content-section li {
   margin: 0.8em 0;
   line-height: 1.6;
 }
 
-.posts-section a,
-.work-section a,
-.art-section a,
-.misc-section a {
+.content-section a {
   color: #c6cddb;
   text-decoration: underline;
   text-decoration-color: rgba(198, 205, 219, 0.3);
   transition: all 0.3s ease;
 }
 
-.posts-section a:hover,
-.work-section a:hover,
-.art-section a:hover,
-.misc-section a:hover {
+.content-section a:hover {
   color: #fff;
   text-decoration-color: rgba(255, 255, 255, 0.5);
 }
 
-.posts-note,
-.work-note,
-.art-note,
-.misc-note {
+.section-note {
   color: #8295A8;
   font-style: italic;
   font-size: 0.95em;
+}
+
+.posts-section li {
+  text-align: center;
+}
+
+.posts-section .section-note {
+  display: block;
+  font-size: 0.85em;
 }
 
 .section-icon {
