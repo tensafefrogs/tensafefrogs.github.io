@@ -328,7 +328,7 @@ a:hover {
 }
 
 .blog-header {
-  margin-bottom: 3em;
+  margin-bottom: 1.5em;
 }
 
 .blog-home-link {
@@ -469,12 +469,13 @@ a:hover {
 }
 
 .blog-author-photo {
-  width: 56px;
-  height: 56px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
   opacity: 0.9;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
   border: 1.5px solid rgba(198, 205, 219, 0.3);
 }
 
@@ -507,6 +508,7 @@ a:hover {
   font-size: 0.8em;
   color: #6e737b;
   opacity: 0.6;
+  text-align: center;
 }
 
 .blog-footer p {
