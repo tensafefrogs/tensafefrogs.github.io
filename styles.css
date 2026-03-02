@@ -333,9 +333,9 @@ a:hover {
 
 .blog-home-link {
   display: inline-block;
-  font-size: 0.8em;
-  color: #8295A8;
-  opacity: 0.7;
+  font-size: 0.9em;
+  color: #9aacbe;
+  opacity: 0.85;
   letter-spacing: 0.05em;
   margin-bottom: 2em;
   transition: all 0.4s ease-out;
