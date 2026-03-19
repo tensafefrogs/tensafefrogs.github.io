@@ -137,6 +137,12 @@
 	</article>
 	<script>
 		document.getElementById('year').textContent = new Date().getFullYear();
+		document.querySelectorAll('.blog-content a').forEach(function(a) {
+			if (a.hostname !== window.location.hostname) {
+				a.setAttribute('target', '_blank');
+				a.setAttribute('rel', 'noopener');
+			}
+		});
 	</script>
 </body>
 </html>

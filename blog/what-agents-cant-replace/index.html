@@ -93,7 +93,7 @@
 		</header>
 		<div class="blog-content">
 			<p>In my last post, <a href="/blog/your-ai-agent-is-building-shadow-it/">Your AI Agent Is Building Shadow IT</a>, I argued that agents are starting to create a new layer of software inside companies. This post continues that line of thinking to what changes when that happens.</p>
-<p>There&rsquo;s been a lot of discussion about AI eating SaaS. Satya Nadella called business apps &ldquo;CRUD databases with business logic&rdquo; and <a href="https://nashfact.com/ai-agents-vs-saas-the-future-of-software-and-aaas/">said the logic is moving to the AI layer</a>. Nicolas Bustamante says he <a href="https://x.com/nicbstme/status/2025643017571541378">doesn&rsquo;t log into his SaaS tools anymore</a> because his agent does it for him. They&rsquo;re both pointing at something real: agents are going to hollow out a lot of the interaction layer of software.</p>
+<p>There&rsquo;s been a lot of discussion about AI eating SaaS. Satya Nadella called business apps &ldquo;CRUD databases with business logic&rdquo; and <a href="https://www.youtube.com/watch?v=9NtsnzRFJ_o">said the logic is moving to the AI layer</a>. Nicolas Bustamante says he <a href="https://x.com/nicbstme/status/2025643017571541378">doesn&rsquo;t log into his SaaS tools anymore</a> because his agent does it for him. They&rsquo;re both pointing at something real: agents are going to hollow out a lot of the interaction layer of software.</p>
 <p>But that does not mean they replace the coordination layer.</p>
 <p>Once agents can operate software directly, a lot of what felt valuable about a product turns out to have been the interface. Agents will increasingly build their own interfaces on the fly, even if users aren&rsquo;t fully aware of what those agents are doing behind the scenes. They&rsquo;ll assemble whatever UI or workflow is needed to get a job done, calling APIs with the user&rsquo;s credentials, pulling data across systems, even using the user&rsquo;s browser. That UI your SaaS team spent years polishing is needed less and less by humans, and will see less and less direct use.</p>
 <p>But if you think about the basic requirements of doing work as a group, they do not go away. People still need to agree on what&rsquo;s true, agree on what words mean, know who&rsquo;s responsible for what, and track who did what and why. Every organization that has ever existed needed these things, long before software. Everyone having a personal AI agent doesn&rsquo;t change that. It just changes the way it looks.</p>
@@ -125,6 +125,12 @@
 	</article>
 	<script>
 		document.getElementById('year').textContent = new Date().getFullYear();
+		document.querySelectorAll('.blog-content a').forEach(function(a) {
+			if (a.hostname !== window.location.hostname) {
+				a.setAttribute('target', '_blank');
+				a.setAttribute('rel', 'noopener');
+			}
+		});
 	</script>
 </body>
 </html>
