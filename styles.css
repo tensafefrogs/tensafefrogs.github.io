@@ -144,14 +144,14 @@ a:hover {
 .content-section {
   margin: 1.5em auto 1em;
   max-width: 500px;
-  font-size: 0.6em;
+  font-size: 0.7em;
   opacity: 0.85;
 }
 
 .content-section h3 {
   text-align: center;
   margin: 0 0 1em 0;
-  font-size: 1.3em;
+  font-size: 1.4em;
   color: #c6cddb;
   opacity: 0.8;
   text-shadow: rgba(0,0,0,0.5) 1px 1px 1px;
