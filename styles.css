@@ -318,7 +318,7 @@ a:hover {
   width: 93%;
   margin: 0 auto;
   padding: 3em 0 2em;
-  font-size: 1rem;
+  font-size: 1.05rem;
   line-height: 1.75;
 }
 
@@ -328,7 +328,7 @@ a:hover {
 
 .blog-home-link {
   display: inline-block;
-  font-size: 0.9em;
+  font-size: 0.95em;
   color: #9aacbe;
   opacity: 0.85;
   letter-spacing: 0.05em;
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .blog-byline {
-  font-size: 0.8em;
+  font-size: 0.85em;
   color: #9aacbe;
   letter-spacing: 0.03em;
 }
@@ -381,7 +381,7 @@ a:hover {
 }
 
 .blog-hero-caption {
-  font-size: 0.8em;
+  font-size: 0.85em;
   color: #8295A8;
   font-style: italic;
   text-align: center;
@@ -499,7 +499,7 @@ a:hover {
 }
 
 .blog-author-info {
-  font-size: 0.85em;
+  font-size: 0.9em;
   line-height: 1.5;
   color: #9aacbe;
 }
