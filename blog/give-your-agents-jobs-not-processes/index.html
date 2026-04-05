@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="description" content="When building AI agents, starting small by hardcoding today's process constrains a system that can reason about goals into a brittle script. Define the job, not the steps.">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/">
+
+	<!-- Theme colors -->
+	<meta name="theme-color" content="#1a2634">
+	<meta name="msapplication-TileColor" content="#1a2634">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/">
+	<meta property="og:title" content="Give Your Agents Jobs, Not Processes">
+	<meta property="og:description" content="When building AI agents, starting small by hardcoding today's process constrains a system that can reason about goals into a brittle script. Define the job, not the steps.">
+	<meta property="og:image" content="https://geoffstearns.com/og-image.png">
+	<meta property="article:published_time" content="2026-04-06T00:00:00+00:00">
+	<meta property="article:author" content="Geoff Stearns">
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/">
+	<meta property="twitter:title" content="Give Your Agents Jobs, Not Processes">
+	<meta property="twitter:description" content="When building AI agents, starting small by hardcoding today's process constrains a system that can reason about goals into a brittle script. Define the job, not the steps.">
+	<meta property="twitter:image" content="https://geoffstearns.com/og-image.png">
+
+	<!-- Favicons -->
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+	<!-- Structured Data -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "BlogPosting",
+		"headline": "Give Your Agents Jobs, Not Processes",
+		"description": "When building AI agents, starting small by hardcoding today's process constrains a system that can reason about goals into a brittle script. Define the job, not the steps.",
+		"datePublished": "2026-04-06T00:00:00+00:00",
+		"author": {
+			"@type": "Person",
+			"name": "Geoff Stearns",
+			"url": "https://geoffstearns.com"
+		},
+		"publisher": {
+			"@type": "Person",
+			"name": "Geoff Stearns",
+			"url": "https://geoffstearns.com"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/"
+		},
+		"image": "https://geoffstearns.com/og-image.png"
+	}
+	</script>
+
+	<title>Give Your Agents Jobs, Not Processes</title>
+
+	<!-- Preconnect for performance -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+	<!-- Feeds -->
+	<link rel="alternate" type="application/rss+xml" title="Geoff Stearns" href="/feed.xml">
+	<link rel="alternate" type="application/feed+json" title="Geoff Stearns" href="/feed.json">
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Andada|Dynalight">
+	<link rel="stylesheet" href="/styles.css">
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GEVZM3FQ3R"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-GEVZM3FQ3R');
+	</script>
+</head>
+<body id="page">
+	<article class="blog-post animated fadeIn">
+		<header class="blog-header">
+			<a href="/" class="blog-home-link">&larr; Geoff Stearns</a>
+			<h1 class="blog-title">Give Your Agents Jobs, Not Processes</h1>
+			<div class="blog-byline">
+				<span class="blog-author">Geoff Stearns</span> &middot; <time class="blog-date" datetime="2026-04-06T00:00:00+00:00">April 6, 2026</time>
+			</div>
+		</header>
+		<div class="blog-content">
+			<p>Every experienced software builder carries the same instinct: start small. Ship the thinnest possible slice, prove value, then broaden from there. Lean startup, agile, MVP, iterative delivery. It&rsquo;s so deeply embedded in product thinking that it feels like a law of nature.</p>
+<p>When building AI agents, that instinct can backfire if &ldquo;start small&rdquo; means &ldquo;hardcode today&rsquo;s process.&rdquo; If you focus on replicating how the work gets done now, step by step, you constrain a system that can reason about goals into a brittle script. The result is an agent that breaks on edge cases and never shows what it could have done with more freedom.</p>
+<p>When you hire a senior person into a role, you don&rsquo;t hand them a script of every action to take in every situation. You describe the role, give them access to the systems they need, set clear boundaries on their authority, and trust them to figure out the best approach. The more capable the hire, the more counterproductive it is to micromanage their every step. You wouldn&rsquo;t tell a senior engineer which IDE to use or what order to write their functions in. You&rsquo;d tell them what the system needs to do, point them at the codebase and the deployment pipeline, and make sure they understand what requires a code review.</p>
+<p>Many teams building AI agents are doing the equivalent of handing that senior hire a keystroke-by-keystroke script, and getting exactly the results you&rsquo;d expect.</p>
+<h2>How we got here</h2>
+<p>For most of the history of software, building a tool to support a workflow meant decomposing that workflow into discrete operations and implementing each one. Software didn&rsquo;t reason; it executed. If you wanted the system to handle a new situation, you wrote new code. Starting narrow meant picking one path through the workflow, building it end to end, getting feedback, and expanding. This is good product discipline, and it still applies to many things. But it carries an implicit assumption: every capability has to be constructed.</p>
+<p>LLMs break that assumption. For the first time, the technology can reason about a goal, choose among available tools, and adapt its approach based on what it encounters. You&rsquo;re no longer assembling every behavior from scratch; you&rsquo;re shaping a system that arrives with broad capability already present. And yet many teams still approach AI agents the way they&rsquo;d approach any workflow tool: decompose the process, implement each step, start narrow, iterate.</p>
+<p><a href="https://www.anthropic.com/research/building-effective-agents">Anthropic draws a useful distinction</a> between &ldquo;workflows&rdquo; (LLMs orchestrated through predefined code paths) and &ldquo;agents&rdquo; (systems where LLMs dynamically direct their own processes and tool usage). When you encode an existing process into a workflow, you&rsquo;re encoding the limitations that process was designed around. The process was built for software that couldn&rsquo;t reason or adapt. Those constraints shaped every part of it: the handoffs, the approval gates, the workarounds for systems that don&rsquo;t talk to each other. Carrying all of that forward into an agent is like hiring that senior engineer and then requiring them to write code the way your 2005 intern did, because that&rsquo;s what&rsquo;s documented.</p>
+<p>And when you constrain an agent to execute the existing process, the best you&rsquo;ll ever get is an incremental improvement on the current way of working. The agent does the steps faster, but it never shows you a better way to accomplish the goal, because you never gave it the latitude to find one.</p>
+<h2>Define the job, not the steps</h2>
+<p>The <a href="https://www.christenseninstitute.org/theory/jobs-to-be-done/">Jobs to Be Done framework</a> maps onto AI agent design with unusual precision. JTBD says: don&rsquo;t ask what features the product needs, ask what job the user is hiring it to do. The job is stable even when the process changes. &ldquo;Move qualified deals through the pipeline to close&rdquo; is a job. &ldquo;Query the CRM, filter by stage, check last activity date, draft a follow-up&rdquo; is a process. The job persists; the process is an artifact of the tools and constraints that existed when someone first figured out how to get it done.</p>
+<p>When you give an agent a job instead of a process, two things happen. First, the agent can reason about how to accomplish the goal, which means it can handle situations the original process never anticipated. A scripted agent fails silently on edge cases; a job-oriented agent can adapt. Second, you&rsquo;re forced to articulate what success actually means. A process is self-describing: did the agent follow the steps? A job requires you to define the outcome. Is the deal actually qualified, or just at the right stage? Has the prospect been contacted recently by another rep? Does the proposed next step match where the buyer actually is in their decision? These are harder questions than &ldquo;did step 3 execute,&rdquo; but they&rsquo;re the questions that determine whether the work was actually done well.</p>
+<p>JTBD turns out to be a <a href="https://www.designative.info/2025/09/24/jobs-to-be-done-and-intention-mapping-translating-human-needs-into-agent-actions/">natural way to specify agents</a>. Jobs are stable. Processes are contingent. A good agent spec should look more like an intention with success criteria and constraints than a flowchart.</p>
+<h2>The risk question</h2>
+<p>The biggest practical obstacle to the job-oriented approach is trust. If you haven&rsquo;t scripted each step, how do you know the agent isn&rsquo;t doing something you didn&rsquo;t intend?</p>
+<p>This concern is real, but it&rsquo;s aimed at the wrong thing. Scripted processes feel safe because they&rsquo;re legible: you can read the instructions and predict what will happen. But legibility is not the same thing as safety. A scripted agent that encounters a state the process didn&rsquo;t anticipate will either halt with an error that can&rsquo;t describe the actual problem, or continue executing steps that no longer make sense in context. The failure is silent precisely because the agent is doing exactly what you told it to.</p>
+<p>The resolution requires separating two things that feel like the same thing but aren&rsquo;t: scope and authority. Scope is what the agent can think about and attempt. Authority is what the agent can actually do in external systems.</p>
+<p>Restricting scope makes the agent less capable. Restricting authority makes the agent safer.</p>
+<p>Conflating them means you&rsquo;re making the agent dumber when you&rsquo;re trying to make it more trustworthy. There is a legitimate tradeoff in debuggability: a scripted process gives you step-by-step traceability that a reasoning agent doesn&rsquo;t. But well-designed tools produce structured call traces that function as checkpoints, and there&rsquo;s more to say about evaluation for agent systems in a follow-up.</p>
+<h2>Bound the authority, broaden the scope</h2>
+<p>The practical pattern that&rsquo;s <a href="https://www.anthropic.com/research/building-effective-agents">emerging in production</a> is to let the agent reason freely about how to accomplish a job while forcing every action through a governance layer that enforces organizational constraints deterministically. The agent&rsquo;s intelligence creates value in the planning and reasoning. The boundaries create safety at the point of execution.</p>
+<p>In practice, this breaks down into two layers.</p>
+<p><strong>Tools encode requirements.</strong> The tools you give the agent are your authority boundary, and they should enforce security, process, and policy constraints directly. If your organization requires that prospects aren&rsquo;t contacted more than once per quarter, that constraint lives in the tool, not in the prompt. The tool either accepts the request or rejects it with a reason. This is deterministic enforcement: your compliance story doesn&rsquo;t depend on whether the LLM interpreted a natural-language instruction correctly on this particular inference. This is also where concerns about hallucination find their architectural answer. An agent might hallucinate a bad plan, but it can&rsquo;t hallucinate its way past a tool that requires valid parameters and checks policy before executing. The reasoning layer can be imperfect without producing dangerous actions, because the execution layer doesn&rsquo;t trust it. Well-designed tools also enable collaboration by managing handoffs between people and agents, protecting shared resources like contact lists or approval queues, and producing structured outputs that downstream systems and teammates can act on.</p>
+<p><strong>Skills encode goals and quality.</strong> Skills are reusable context modules: domain-specific operating instructions that extend the system prompt for a given scenario, providing the agent with specific goals, expertise, and quality standards. A skill for deal management would include the goal (&ldquo;move this deal to a decision by identifying and addressing the buyer&rsquo;s remaining concerns&rdquo;), the domain knowledge (what signals indicate a deal is stalling, how outreach should differ between a technical evaluator and an executive sponsor, when to escalate to a human), and the quality bar (what &ldquo;good enough&rdquo; looks like versus what requires judgment from a person). Skills enable progressive disclosure: as the agent encounters different types of work, the relevant skill activates with context and expectations rather than front-loading everything into a monolithic prompt. They should also explain the reasoning behind the policies enforced by tools, so the agent makes better decisions about when and how to use them.</p>
+<p>This separation matters because you can update policy and expertise independently. When a compliance rule changes, you change the tool. When the team learns that a certain approach produces better results, you update the skill. Neither change requires rearchitecting the other.</p>
+<p>Mapping back to the senior hire: tools are the systems and permissions you provision on their first day. Skills are the onboarding docs, the team norms, the goals they&rsquo;re working toward. You wouldn&rsquo;t put access controls in an onboarding document, and you wouldn&rsquo;t put quality standards in an IAM policy. The same logic applies here.</p>
+<h2>The builder&rsquo;s job has changed</h2>
+<p>The instinct to start narrow comes from a world where you were constructing capability from scratch. In that world, narrowing scope was how you managed complexity and risk. With AI agents, broad capability is the starting condition. The builder&rsquo;s job isn&rsquo;t to assemble the capability piece by piece. It&rsquo;s to design the tools that constrain authority, the skills that define goals and encode quality, and the governance layer that makes the whole thing auditable and trustworthy. That&rsquo;s the product.</p>
+		</div>
+		<div class="blog-author-bio">
+			<img src="/profile.png" alt="Geoff Stearns" class="blog-author-photo">
+			<div class="blog-author-info">
+				<span class="blog-author-name">Geoff Stearns</span> builds things on the internet and is a Product Manager at Google.
+			</div>
+		</div>
+		<footer class="blog-footer">
+			<a href="/" class="blog-home-link">&larr; Back home</a>
+			<p>&copy; <span id="year"></span> Geoff Stearns</p>
+		</footer>
+	</article>
+	<script>
+		document.getElementById('year').textContent = new Date().getFullYear();
+		document.querySelectorAll('.blog-content a').forEach(function(a) {
+			if (a.hostname !== window.location.hostname) {
+				a.setAttribute('target', '_blank');
+				a.setAttribute('rel', 'noopener');
+			}
+		});
+	</script>
+</body>
+</html>
