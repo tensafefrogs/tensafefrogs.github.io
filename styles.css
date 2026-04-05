@@ -365,6 +365,30 @@ a:hover {
   font-style: italic;
 }
 
+.blog-hero-figure {
+  margin: 0 0 2em;
+}
+
+.blog-hero {
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+  display: block;
+}
+
+.blog-hero-figure .blog-hero {
+  margin-bottom: 0;
+}
+
+.blog-hero-caption {
+  font-size: 0.8em;
+  color: #8295A8;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0.6em;
+  opacity: 0.85;
+}
+
 .blog-content {
   color: #d5dbe6;
 }
