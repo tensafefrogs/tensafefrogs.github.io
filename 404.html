@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>404 — Page Not Found</title>
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Andada|Dynalight">
+	<style>
+		* { margin: 0; padding: 0; box-sizing: border-box; }
+		body {
+			color: #c6cddb;
+			font-family: "Trebuchet MS", Verdana, sans-serif;
+			background-color: #1a2634;
+			background-image:
+				url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.06'/%3E%3C/svg%3E"),
+				radial-gradient(circle at center, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%),
+				radial-gradient(#2a3a4d 2px, transparent 2px),
+				radial-gradient(#253449 2px, transparent 2px);
+			background-size: auto, 100% 100%, 40px 40px, 40px 40px;
+			background-position: 0 0, 0 0, 0 0, 20px 20px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			min-height: 100vh;
+			letter-spacing: .06em;
+			overflow: hidden;
+		}
+		.container {
+			text-align: center;
+			padding: 2em;
+			animation: fadeIn 1s both;
+		}
+		@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+		.code {
+			font-family: 'Andada', serif;
+			font-size: 8em;
+			line-height: 1;
+			color: #e2e6ed;
+			text-shadow: rgba(0,0,0,0.5) 2px 2px 1px;
+			margin-bottom: 0.1em;
+			cursor: default;
+			user-select: none;
+		}
+		.message {
+			font-family: 'Dynalight', cursive;
+			font-size: 2em;
+			color: #8295A8;
+			text-shadow: rgba(0,0,0,0.5) 2px 2px 1px;
+			margin-bottom: 1.5em;
+		}
+		.home-link {
+			color: #5dade2;
+			text-decoration: none;
+			font-size: 1.1em;
+			transition: color 0.4s ease-out;
+		}
+		.home-link:hover { color: #85c7f2; }
+
+		/* Wandering dot */
+		.dot {
+			position: fixed;
+			width: 6px;
+			height: 6px;
+			border-radius: 50%;
+			background: #5dade2;
+			opacity: 0;
+			pointer-events: none;
+			transition: opacity 1.5s;
+			box-shadow: 0 0 8px rgba(93, 173, 226, 0.6);
+		}
+		.dot.visible { opacity: 0.7; }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="code" id="code">404</div>
+		<div class="message">This page wandered off.</div>
+		<a href="/" class="home-link">&larr; Head home</a>
+	</div>
+	<div class="dot" id="dot"></div>
+	<script>
+		// A little dot that drifts around the page like the page you were looking for
+		(function() {
+			var dot = document.getElementById('dot');
+			var x = Math.random() * window.innerWidth;
+			var y = Math.random() * window.innerHeight;
+			var vx = (Math.random() - 0.5) * 1.2;
+			var vy = (Math.random() - 0.5) * 1.2;
+
+			setTimeout(function() { dot.classList.add('visible'); }, 2000);
+
+			function step() {
+				x += vx;
+				y += vy;
+				if (x < 0 || x > window.innerWidth) vx *= -1;
+				if (y < 0 || y > window.innerHeight) vy *= -1;
+				// Gentle random drift
+				vx += (Math.random() - 0.5) * 0.05;
+				vy += (Math.random() - 0.5) * 0.05;
+				vx = Math.max(-1.5, Math.min(1.5, vx));
+				vy = Math.max(-1.5, Math.min(1.5, vy));
+				dot.style.left = x + 'px';
+				dot.style.top = y + 'px';
+				requestAnimationFrame(step);
+			}
+			step();
+		})();
+	</script>
+</body>
+</html>
