@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="description" content="The model already knows the generic job. A skill is where you add the judgment specific to your work.">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/">
+
+	<!-- Theme colors -->
+	<meta name="theme-color" content="#1a2634">
+	<meta name="msapplication-TileColor" content="#1a2634">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/">
+	<meta property="og:title" content="Skills Are Where Your Judgment Goes">
+	<meta property="og:description" content="The model already knows the generic job. A skill is where you add the judgment specific to your work.">
+	<meta property="og:image" content="https://geoffstearns.com/og-image.png">
+	<meta property="article:published_time" content="2026-06-14T00:00:00+00:00">
+	<meta property="article:author" content="Geoff Stearns">
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/">
+	<meta property="twitter:title" content="Skills Are Where Your Judgment Goes">
+	<meta property="twitter:description" content="The model already knows the generic job. A skill is where you add the judgment specific to your work.">
+	<meta property="twitter:image" content="https://geoffstearns.com/og-image.png">
+
+	<!-- Favicons -->
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+	<!-- Structured Data -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "BlogPosting",
+		"headline": "Skills Are Where Your Judgment Goes",
+		"description": "The model already knows the generic job. A skill is where you add the judgment specific to your work.",
+		"datePublished": "2026-06-14T00:00:00+00:00",
+		"author": {
+			"@type": "Person",
+			"name": "Geoff Stearns",
+			"url": "https://geoffstearns.com"
+		},
+		"publisher": {
+			"@type": "Person",
+			"name": "Geoff Stearns",
+			"url": "https://geoffstearns.com"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/"
+		},
+		"image": "https://geoffstearns.com/og-image.png"
+	}
+	</script>
+
+	<title>Skills Are Where Your Judgment Goes</title>
+
+	<!-- Preconnect for performance -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+	<!-- Feeds -->
+	<link rel="alternate" type="application/rss+xml" title="Geoff Stearns" href="/feed.xml">
+	<link rel="alternate" type="application/feed+json" title="Geoff Stearns" href="/feed.json">
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Andada|Dynalight">
+	<link rel="stylesheet" href="/styles.css">
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-GEVZM3FQ3R"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-GEVZM3FQ3R');
+	</script>
+</head>
+<body id="page">
+	<article class="blog-post animated fadeIn">
+		<header class="blog-header">
+			<a href="/" class="blog-home-link">&larr; geoffstearns.com</a>
+			<h1 class="blog-title">Skills Are Where Your Judgment Goes</h1>
+			<div class="blog-byline">
+				<span class="blog-author">Geoff Stearns</span> &middot; <time class="blog-date" datetime="2026-06-14T00:00:00+00:00">June 14, 2026</time>
+			</div>
+		</header>
+		
+		<div class="blog-content">
+			<p>In my last post I argued you should <a href="https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/">give agents jobs, not processes</a>: tell an agent what it&rsquo;s responsible for, and split the work so tools enforce the rules while the skill&rsquo;s instructions carry the goals and the judgment. So now let&rsquo;s talk about how to build a good one.</p>
+<p>Suppose you want to teach an agent to handle a real job: responding to escalated customer support tickets. Here&rsquo;s a skill you&rsquo;ve seen before: pull the ticket history, check the help center, draft a reply in the brand voice, tag and close. It looks responsible. It&rsquo;s almost worthless as a skill, because every line is either generic model work or tool work. Now compare: a credit above $200 needs approval. A customer who mentions a deadline or a migration is churn-risk, not venting. Stop recommending the CSV workaround, it corrupted a customer&rsquo;s data last month. We&rsquo;d rather eat a $50 credit than spend an hour of an engineer&rsquo;s time. The first skill writes down the steps. The second writes down the judgment.</p>
+<p>The first one is the trap, and it&rsquo;s worth being clear about why so many skills fall into it. Your current process feels like the work, but it isn&rsquo;t. It&rsquo;s the work bent around the tools you had and the handoffs between people, and the steps that were easy to write down were the mechanical ones. Hand those to the agent and you&rsquo;ve automated the version of the job you already do, a little faster. That&rsquo;s iteration. It&rsquo;s not nothing, but it&rsquo;s not what you&rsquo;re here for. The agent can do far more than run your old playbook quicker, and getting there means letting go of the playbook and asking what the job actually needs. The parts that matter are the ones only you can answer, and they&rsquo;re rarely the parts you wrote down.</p>
+<p>It comes down to four questions. What can the model already do? Where does experience change the answer? What&rsquo;s true here that isn&rsquo;t true everywhere? What must the tool enforce? The answers decide what belongs in the skill, what belongs in the tool, and what shouldn&rsquo;t be written down at all. A skill is for the part the model doesn&rsquo;t get from general competence: your judgment, your local knowledge, and your rules for what good means here.</p>
+<h2>What&rsquo;s mechanical?</h2>
+<p>Start by splitting the job into two piles.</p>
+<p>The first pile is mechanical work. It&rsquo;s the stuff where there&rsquo;s a known way to do it, where you can follow the steps and get the result. Sometimes that&rsquo;s a fixed procedure, sometimes it&rsquo;s a bounded task you can hand to a tool, but either way, doing it well doesn&rsquo;t take an expert. It takes correct execution, and a capable model already has that. Looking up an account, searching the docs, formatting a reply, running a query: all mechanical. You might still point the agent at it, but that&rsquo;s a cheap, shallow kind of teaching. Hand it a tool and a well-built tool explains itself, what it&rsquo;s for, what it expects, what it returns, so a single line in the skill does the whole job: this is the customer CRM, use it to look up customer info. The agent takes it from there. The most a skill should say about a mechanical step is which tool to reach for and when, never how the tool works.</p>
+<p>The second pile is judgment, and that word needs a plain definition because people throw it around loosely. Judgment is the part of the work where two things are true at once. There&rsquo;s no procedure that settles it, because if a checklist could settle it, it would just be mechanical work. And yet experience reliably gets you better answers. Put a researcher fresh out of a PhD program and one with fifteen years next to the same study, and the senior one will catch that the sample can&rsquo;t support the claim, that the method is trendy but shaky, that the real question isn&rsquo;t the one being asked. No formula got them there. They&rsquo;ve just seen what goes wrong. That&rsquo;s judgment: no rule to follow, but a right and a wrong you can still be held to.</p>
+<p>It shows up in every field. A new-grad engineer reaches for the clever abstraction that demos beautifully and becomes a maintenance sinkhole two years later; the staff engineer knows which corners are safe to cut on a throwaway prototype and which will haunt a system that lives for a decade. A junior analyst trusts the dashboard; the senior one knows which metric quietly lies. The mechanical pile is the same for everyone. The judgment pile is where experience changes the answer, and that&rsquo;s the pile a skill is actually for.</p>
+<h2>Where does experience change the call?</h2>
+<p>Finding that judgment is the step people skip, because it&rsquo;s rarely written down. The runbook recorded the mechanical steps and left the judgment in someone&rsquo;s head, for the same reason it was easy to write down: nobody records what feels like second nature. And you won&rsquo;t get it by asking your expert to write down their reflexes. They&rsquo;ll stare at a blank page.</p>
+<p>You get it by watching the work. Shadow the person who does the job well. Put two of their outputs side by side and ask why one is better. Watch for the calls they make on reflex, the places where two good practitioners would choose differently, the moment a junior turns in something plausible and wrong and can&rsquo;t say why. That gap, the one the junior couldn&rsquo;t name, is the judgment. Write it down, all of it. The next question sorts it.</p>
+<p>Some of what you write down won&rsquo;t actually be yours. A fair amount of expertise is just general skill the model already has: knowing to check your work, not trusting a thin result, reading the whole file before editing it. Useful, but the model already does it, so you don&rsquo;t need to write it down. Cross that off. What&rsquo;s left is the part that&rsquo;s specific to you, and that&rsquo;s where the value is.</p>
+<h2>What&rsquo;s true here that isn&rsquo;t true everywhere?</h2>
+<p>This is the heart of it, and it&rsquo;s the question almost nobody asks. The model knows the general version of your job. It has read more about customer support, or research, or your codebase&rsquo;s language, than you ever will. What it doesn&rsquo;t have is what&rsquo;s true in your particular corner of the work.</p>
+<p>There are two kinds. First, what&rsquo;s current and local: the workaround your team stopped recommending last month, the method your field has quietly moved past, the convention this codebase follows that no other one does. Take the support job: the model will happily suggest the CSV export to a frustrated customer, because that was good advice in all the docs it trained on, and it has no way to know your team pulled it three weeks ago after it corrupted someone&rsquo;s data. That&rsquo;s not a fact it can look up. It&rsquo;s a fact that lives in your team&rsquo;s heads until you write it into the skill. The model&rsquo;s picture of your world is built from everything written down everywhere, which averages toward the past and the popular. It doesn&rsquo;t know what changed in your shop last quarter, and it can&rsquo;t, because that knowledge lives with you, not on the internet. Letting it search helps, but search mostly returns what someone wrote down. The part that makes your work yours is often the part nobody has written cleanly yet.</p>
+<p>Second, what you value. A better model gets better at the task, not at knowing which tradeoff you favor when speed and rigor pull apart, what &ldquo;good enough to ship&rdquo; means here, or what&rsquo;s even worth doing. Those are choices, and they&rsquo;re yours. Left without them the model doesn&rsquo;t pause to ask; it fills the gap with the most common answer, which is to say someone else&rsquo;s. The thing you&rsquo;re adding when you write a skill isn&rsquo;t skill in the general sense. The model already has that. You&rsquo;re adding the judgment that comes from being in this specific job, at this specific place, with these specific goals. That&rsquo;s the part you&rsquo;re there to add, and no model arrives with it, because it was never written down anywhere for the model to learn from.</p>
+<h2>What must the tool enforce?</h2>
+<p>One last pile, and it comes out for the opposite reason. Some rules you should never leave to judgment at all, no matter how good the agent gets. Two teams must not contact the same customer. A research participant must not get pulled into three studies in a month. A discount past a threshold needs sign-off. A smarter model doesn&rsquo;t make these safe to ask for politely, so they don&rsquo;t belong in the skill&rsquo;s instructions as prose. They belong in the tool, enforced, which is the <a href="https://geoffstearns.com/blog/what-agents-cant-replace/">shared-truth argument</a> from earlier in this series. The skill can explain why the rule exists. The tool makes it unbreakable.</p>
+<p>Worth being precise here, because skills can bundle code. A skill is the whole folder: the instructions in SKILL.md, plus any scripts and reference files it ships with. But a script the agent chooses to run is not the same as an enforced rule. It&rsquo;s a convenience the agent can skip, reorder, or talk itself out of, which makes it closer to a suggestion than a guarantee. If a rule must hold every time, it goes in the tool or the API the agent can&rsquo;t route around, not in a script the instructions merely point at.</p>
+<p>It&rsquo;s also why the tools should be cut to fit the skill, not lifted whole from your software. The reflex is to wrap a system&rsquo;s entire API and hand it over. That gives the agent something shaped like your software instead of the task it&rsquo;s doing. Don&rsquo;t give the agent the whole machine. Give it the one part this skill is allowed to use, with the rules built in. Smaller tools confuse the agent less and limit what it can do wrong.</p>
+<p>There&rsquo;s a sharper version of that mistake worth naming: skills that are really just instructions for how to talk to your backend. How to call the CLI, what the endpoints are, which flags to pass. That isn&rsquo;t a skill, it&rsquo;s developer documentation, and writing it into a skill is a sign the tooling is wrong. If the agent needs to know how to drive your system, the answer is a self-describing tool it can introspect, a CLI with real <code>--help</code>, an API that explains itself, not a markdown file restating the docs by hand. Build the tools so the agent can ask them what they do, and the skill stays free for the part that actually needs you.</p>
+<h2>The method, end to end</h2>
+<p>Back to the support job, with all four questions applied.</p>
+<p><strong>Mechanical:</strong> pulling the history, looking up the account, searching the known issues, drafting the reply. The model can already do all of it, so none of it goes in the skill.</p>
+<p><strong>Where experience changes the call:</strong> senior support people don&rsquo;t treat tickets equally. They read the same angry email and tell venting from churn-risk. They notice when three unrelated tickets are the same underlying bug. They know when &ldquo;works as intended&rdquo; is technically true and still the wrong answer.</p>
+<p><strong>What&rsquo;s true here that isn&rsquo;t true everywhere:</strong> the workaround you stopped recommending, the escalation path that changed last quarter, how much goodwill you&rsquo;ll spend to keep a customer (which a startup and an enterprise vendor answer very differently), and the bar that says a ticket isn&rsquo;t resolved just because it&rsquo;s closed. This is the part you actually have to write, because it exists nowhere else.</p>
+<p><strong>What the tool enforces:</strong> credits above the threshold need approval. Never reveal another account&rsquo;s data. No commitments on ship dates.</p>
+<p>It plays out the same way if you&rsquo;re teaching an agent to recruit research participants. Querying the panel and sending invites are mechanical. Whether this sample can answer the question is where experience changes the call. Your field&rsquo;s current view on the method, and how you weigh speed against rigor, are what&rsquo;s true here and not everywhere. Consent and over-use are rules, enforced in the recruiting tool.</p>
+<h2>What you&rsquo;re left with</h2>
+<p>A skill built this way is short on procedure and long on judgment. What it holds:</p>
+<ul>
+<li>what&rsquo;s current and local, so the agent works from how things are done here and now, not the averaged-out version it was trained on</li>
+<li>the tradeoffs, so it knows what to give up when it can&rsquo;t have everything</li>
+<li>the bar for good, so &ldquo;done&rdquo; means more than &ldquo;finished&rdquo;</li>
+<li>examples of a good call and a bad one, so you can see the judgment it&rsquo;s using</li>
+<li>when to hand off to a person, so it has a way out when it&rsquo;s unsure</li>
+<li>the few narrow tools it&rsquo;s allowed to use, with the hard rules built in</li>
+</ul>
+<p>The counterargument is that this all dissolves: a capable enough model will infer your judgment from your repo history, your tickets, your past decisions. Some of that will happen. But inferring the pattern of your past choices isn&rsquo;t the same as knowing what you&rsquo;re trying to do now, or whether you&rsquo;d still make those choices today. The model can learn what you did. It can&rsquo;t decide what the work is for. That part was never in the training data, and it isn&rsquo;t yours to hand off. It&rsquo;s the reason the skill has your name on it.</p>
+		</div>
+		<div class="blog-author-bio">
+			<img src="/profile.png" alt="Geoff Stearns" class="blog-author-photo">
+			<div class="blog-author-info">
+				<span class="blog-author-name">Geoff Stearns</span> builds things on the internet and is a Product Manager at Google.
+			</div>
+		</div>
+		<footer class="blog-footer">
+			<a href="/" class="blog-home-link">&larr; Back home</a>
+			<p>&copy; <span id="year"></span> Geoff Stearns</p>
+		</footer>
+	</article>
+	<script>
+		document.getElementById('year').textContent = new Date().getFullYear();
+		document.querySelectorAll('.blog-content a').forEach(function(a) {
+			if (a.hostname !== window.location.hostname) {
+				a.setAttribute('target', '_blank');
+				a.setAttribute('rel', 'noopener');
+			}
+		});
+	</script>
+</body>
+</html>
