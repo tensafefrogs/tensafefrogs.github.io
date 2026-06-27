@@ -1,20 +1,33 @@
 # Geoff Stearns
 
-> Internet enthusiast & maker of things.
+> Product Manager at Google, creator of SWFObject. Builds AI agents and skills.
 
 ## About
 
-Geoff Stearns makes generative art and builds things on the internet. Creator of SWFObject (used by 2.6M+ websites), YouTube/Google Product Manager with multiple U.S. patents for video player innovations. Creates long-form generative art at Hash Three Points and various pieces on fxhash. Also maintains a fork of 2048 featuring popular image memes.
+Geoff Stearns is a Product Manager at Google building AI agents and skills. Creator of SWFObject, an open-source JavaScript library used by over 2.6 million websites. Multiple U.S. patents for video player innovations. Also makes generative art in his spare time.
+
+## Blog
+
+- Skills Are Where Your Judgment Goes: https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/
+- Give Your Agents Jobs, Not Processes: https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/
+- What Agents Can't Replace: https://geoffstearns.com/blog/what-agents-cant-replace/
+- Your AI Agent Is Building Shadow IT and Nobody Noticed: https://geoffstearns.com/blog/your-ai-agent-is-building-shadow-it/
 
 ## Links
 
+- Website: https://geoffstearns.com
+- LinkedIn: https://www.linkedin.com/in/geoffstearns/
+- Bluesky: https://bsky.app/profile/deconcept.com
+- Twitter: https://twitter.com/tensafefrogs
+- GitHub: https://github.com/tensafefrogs
+- Instagram: https://instagram.com/tensafefrogs
 - Artwork: https://deconcept.com/
 - Hash Three Points: https://h3p.deconcept.com/
 - fxhash: https://www.fxhash.xyz/u/geoff.tez
-- Code: https://github.com/tensafefrogs
-- Bluesky: https://bsky.app/profile/deconcept.com
-- Instagram: https://instagram.com/tensafefrogs
+- Patents: https://patents.justia.com/inventor/geoff-stearns
+- SWFObject (Wikipedia): https://en.wikipedia.org/wiki/SWFObject
 
-## This Site
+## Feeds
 
-geoffstearns.com is a lovingly hand-prompted, bespoke hypertext homepage featuring a custom dot grid pattern background conjured entirely with pure CSS. No frameworks were harmed in the making of this minimalist digital dwelling. Just a human, an AI, and an artisanal static site generator having a delightful conversation about web design.
+- RSS: https://geoffstearns.com/feed.xml
+- JSON Feed: https://geoffstearns.com/feed.json
