@@ -8,6 +8,7 @@ Geoff Stearns is a Product Manager at Google building AI agents and skills. Crea
 
 ## Blog
 
+- Your Agent Will Pick the Hackable One: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/
 - Skills Are Where Your Judgment Goes: https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/
 - Give Your Agents Jobs, Not Processes: https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/
 - What Agents Can't Replace: https://geoffstearns.com/blog/what-agents-cant-replace/
