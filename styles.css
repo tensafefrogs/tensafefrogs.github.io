@@ -471,6 +471,13 @@ a:hover {
   color: #c0c9d6;
 }
 
+.blog-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
 .blog-content hr {
   border: none;
   border-top: 1px solid rgba(198, 205, 219, 0.1);
